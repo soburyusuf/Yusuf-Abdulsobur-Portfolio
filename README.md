@@ -94,6 +94,6 @@ Let’s connect — I’m open to collaborations, data projects, and career oppo
 
 * 📧 Email: princeolayiwola8@gmail.com
 * 💼 LinkedIn: [your LinkedIn profile here]
-* 🌐 Portfolio Website: [your site, if available]
+* 🌐 Portfolio Website: https://soburyusuf.github.io/Yusuf-AbdulsoburBI.github.io/projects.html
 
 
