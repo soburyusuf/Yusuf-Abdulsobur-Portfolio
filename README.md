@@ -1,5 +1,5 @@
 
-📊 Yusuf’s Data & Analytics Portfolio
+*📊 Yusuf’s Data & Analytics Portfolio*
 
 Welcome to my data analytics & business intelligence portfolio!
 Here, you’ll find projects showcasing my skills in SQL, Power BI, Python, and data storytelling — each solving real-world business problems with data.
