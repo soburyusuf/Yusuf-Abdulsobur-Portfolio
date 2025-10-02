@@ -1,7 +1,7 @@
 # 📊 Yusuf Abdulsobur – Data Analytics & Business Intelligence Portfolio
 
 Welcome to my **Data Analytics & Business Intelligence portfolio**.
-Here, you'll find end-to-end projects that showcase my skills in **SQL**, **Power BI**, **Python**, and **data storytelling** — solving real-world business and research problems with data.
+Here, you'll find end-to-end projects that showcase my skills in **SQL**, **Power BI**, **Python**, and **data storytelling**; solving real-world business and research problems with data.
 This portfolio demonstrates both my **technical capabilities** and my ability to communicate insights clearly for decision-makers.
 
 ---
@@ -79,8 +79,11 @@ A **machine learning project** predicting the growth of *Clarias gariepinus* (Af
 ## 📈 What This Portfolio Shows
 
 ✅ My ability to work with real-world datasets from raw data to insight.
+
 ✅ Practical use of analytics tools to solve business and research challenges.
+
 ✅ Communication of technical results in clear, decision-focused language.
+
 ✅ Continuous learning and exploration of new technologies and use cases.
 
 ---
