@@ -75,7 +75,7 @@ LEFT JOIN cost_table b
 ### 🕐 Hourly Revenue Analysis
 
 * Visualizes revenue by hour and weekday.
-* Highlights peak revenue periods (e.g., **10 AM – 3 PM**).
+* Highlights peak revenue periods (**10 AM – 3 PM**).
 
 ### 📈 KPI Trends Over Time
 
