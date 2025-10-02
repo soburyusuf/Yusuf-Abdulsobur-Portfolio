@@ -1,4 +1,5 @@
 🚴‍♂️  Bike Share Performance Dashboard
+
 📊 Project Overview
 
 The Bike Share Dashboard is an interactive business intelligence project built with SQL Server and Power BI to analyze key performance metrics of a fictional bike-sharing company over 2021–2022.
@@ -16,6 +17,7 @@ This project was designed to help stakeholders answer crucial business questions
 🍂 Seasonal Revenue Analysis – Revealing which seasons generate the most revenue
 
 👤 Rider Demographics – Breaking down user types (casual vs registered)
+
 
 🗄️ Data Pipeline
 
