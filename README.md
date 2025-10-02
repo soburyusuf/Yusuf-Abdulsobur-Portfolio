@@ -1,4 +1,4 @@
-# 📊 Yusuf Abdulsobur – Data & Analytics Portfolio
+# 📊 Yusuf Abdulsobur – Data Analytics & Business Intelligence Portfolio
 
 Welcome to my **Data Analytics & Business Intelligence portfolio**.
 Here, you'll find end-to-end projects that showcase my skills in **SQL**, **Power BI**, **Python**, and **data storytelling** — solving real-world business and research problems with data.
